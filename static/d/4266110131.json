@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"The great react bcam","date":"25-06-2020"},"fields":{"slug":"react"}}},{"node":{"frontmatter":{"title":"The great escape","date":"25-06-2020"},"fields":{"slug":"gatsby"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Slapnica","date":"25-06-2020"},"fields":{"slug":"slapnica"}}},{"node":{"frontmatter":{"title":"Golica","date":"25-06-2020"},"fields":{"slug":"golica"}}},{"node":{"frontmatter":{"title":"Kalnik","date":"25-06-2020"},"fields":{"slug":"kalnik"}}}]}}}
