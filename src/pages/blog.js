@@ -27,6 +27,7 @@ const BlogPage = () => {
   return (
     <div>
       <Layout>
+        <div className={blogStyles.container}>
         <h1>Blog</h1>
         <p>Posts</p>
         
@@ -40,6 +41,7 @@ const BlogPage = () => {
             </li>
           ))}
         </ol>
+        </div>
       </Layout>
     </div>
   )
